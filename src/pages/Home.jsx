@@ -9,7 +9,7 @@ function Home() {
         <p className="text-xl text-gray-600 mb-8 text-center max-w-2xl">
           Discover the beauty of nature with our exquisite collection of flowers. Perfect for any occasion or simply to brighten up your day.
         </p>
-        <Link to="/shop" className="bg-pink-500 text-white px-6 py-3 rounded-full hover:bg-pink-600 transition duration-300">
+        <Link to="/shop" className="bg-pink-500 text-gray-500 px-6 py-3 rounded-full hover:bg-pink-600 transition duration-300">
           Shop Now
         </Link>
       </div>
